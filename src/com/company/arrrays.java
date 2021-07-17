@@ -9,5 +9,6 @@ public class arrrays {
         numbers[0] = 1;
         numbers[1] = 2;
         System.out.println(Arrays.toString(numbers));
+
     }
 }
