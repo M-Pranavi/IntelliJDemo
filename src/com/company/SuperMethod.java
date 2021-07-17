@@ -10,6 +10,7 @@ class A
     {
         System.out.println("in A int");
     }
+
 }
 class B extends A
 {
